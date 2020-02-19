@@ -4,7 +4,7 @@
 
 ``` text
 [Proxy Group]
-MIMEMICloud = select, policy-path=https://[server-path]/convert.php?url=[surge托管地址], update-interval=3600
+规则名 = select, policy-path=https://[server-path]/convert.php?url=[surge托管地址], update-interval=3600
 
 ```
 
